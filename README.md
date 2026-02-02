@@ -50,7 +50,7 @@ A mock desktop operating system mimicking retro Apple OS with a document editor,
 
 1. __Launch Calculator__: Apps → Calculator (currently in development)
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Architecture
 
